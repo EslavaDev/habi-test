@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "porky-house"
+  },
+  "targets": {
+    "porky-house": {
+      "hosting": {
+        "hb": [
+          "test-hb-dev"
+        ]
+      }
+    }
+  }
+}

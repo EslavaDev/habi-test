@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Owner Should render the component 1`] = `
+<div>
+  <div>
+    <p
+      data-testid="owner-name"
+    >
+      <strong>
+        Name: 
+      </strong>
+       
+      carlos
+    </p>
+    <p
+      data-testid="owner-phone"
+    >
+      <strong>
+        Phone: 
+      </strong>
+       
+      1111111
+    </p>
+    <p
+      data-testid="owner-contact"
+    >
+      <strong>
+        Contact: 
+      </strong>
+       
+      carlos@mail.com
+    </p>
+  </div>
+</div>
+`;

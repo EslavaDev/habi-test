@@ -1,0 +1,66 @@
+[
+  {
+    "id": "apt1",
+    "owner": {
+      "id": "own1",
+      "fullname": "Picanto",
+      "phone": "98263123",
+      "email": "picanto@mail.com"
+    },
+    "area": 66,
+    "rooms": 3,
+    "address": "Calle siempre viva",
+    "city": "Cali",
+    "location": "sur",
+    "date": "2021-05-10",
+    "price": 30000
+  },
+  {
+    "id": "apt2",
+    "owner": {
+      "id": "own1",
+      "fullname": "Picanto",
+      "phone": "98263123",
+      "email": "picanto@mail.com"
+    },
+    "area": 70,
+    "rooms": 2,
+    "address": "Calle siempre viva 2",
+    "city": "Medellin",
+    "location": "east",
+    "date": "2021-05-17",
+    "price": 400000
+  },
+  {
+    "id": "apt3",
+    "owner": {
+      "id": "own1",
+      "fullname": "Picanto",
+      "phone": "98263123",
+      "email": "picanto@mail.com"
+    },
+    "area": 120,
+    "rooms": 5,
+    "address": "Gente de bien",
+    "city": "Cali",
+    "location": "sur",
+    "date": "2021-05-11",
+    "price": 900000
+  },
+  {
+    "id": "apt4",
+    "owner": {
+      "id": "own1",
+      "fullname": "Picanto",
+      "phone": "98263123",
+      "email": "picanto@mail.com"
+    },
+    "area": 66,
+    "rooms": 3,
+    "address": "Calle siempre viva",
+    "city": "Cali",
+    "location": "sur",
+    "date": "2021-05-10",
+    "price": 30000
+  }
+]

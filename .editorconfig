@@ -1,0 +1,12 @@
+root = true
+
+[*.{js,jsx,yml,json}]
+end_of_line = lf
+insert_final_newline = false
+charset = utf-8
+indent_style = spaces
+trim_trailing_whitespace = false
+
+[*.md]
+insert_final_newline = false
+trim_trailing_whitespace = false
